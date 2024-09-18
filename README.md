@@ -54,13 +54,7 @@ Adjust these if your going to deploy to any remote server.
 4- You can also view all your uploaded video and audio files and see their transcriptions. Their is an additional export button that allows you to download a JSON file with all their information.
 
 - Note that this project only allows MP4, and MP3 format files. 
-- Additional Notes Make sure ffmpeg is installed on your machine and available on your system's PATH
-
-## Contributing
-
-Contributions are always welcome!
-
-Open a PR or an issue for extra features and bug fixes.
+- Additional Notes Make sure ffmpeg is installed on your machine and available on your system's PATH.
 
 ## Authors
 
